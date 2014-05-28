@@ -7,6 +7,18 @@ This is a minimalistic clean theme for the Gnome Shell. It is meant to match the
 
 MiniMoka is brought to you by Ossi Hanhinen, [@ohanhi](https://twitter.com/ohanhi), and is distributable under the [GNU GPL v3](http://www.gnu.org/copyleft/gpl.html) terms apart from the workspace switcher icons (see below).
 
+## Screenshots
+
+*All screenshots have the aforementioned Moka Icon and GTK themes in use. The wallpaper is artwork by the talented [Justin M. Maller](http://justinmaller.com/).*
+
+![](https://raw.githubusercontent.com/mr-maw/minimoka-gnome-shell/master/Screenshots/Screenshot-1.png)
+
+![](https://raw.githubusercontent.com/mr-maw/minimoka-gnome-shell/master/Screenshots/Screenshot-2.png)
+
+![](https://raw.githubusercontent.com/mr-maw/minimoka-gnome-shell/master/Screenshots/Screenshot-3.png)
+
+![](https://raw.githubusercontent.com/mr-maw/minimoka-gnome-shell/master/Screenshots/Screenshot-4.png)
+
 
 ## Attributions
 
