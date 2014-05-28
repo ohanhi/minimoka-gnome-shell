@@ -5,7 +5,7 @@ MiniMoka Gnome Shell Theme
 This is a minimalistic clean theme for the Gnome Shell. It is meant to match the beautiful Moka Icon and GTK themes, which you can find at the [Moka Project website](http://mokaproject.com/).
 
 
-MiniMoka is brought to you by Ossi Hanhinen, @ohanhi, and is distributable under the [GNU GPL v3](http://www.gnu.org/copyleft/gpl.html) terms apart from the workspace switcher icons (see below).
+MiniMoka is brought to you by Ossi Hanhinen, [@ohanhi](https://twitter.com/ohanhi), and is distributable under the [GNU GPL v3](http://www.gnu.org/copyleft/gpl.html) terms apart from the workspace switcher icons (see below).
 
 
 ## Attributions
